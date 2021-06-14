@@ -1,0 +1,49 @@
+.body{
+    background-color: #DE1D22;
+}
+
+/* -- #DE1D22 #ededed #000000*/
+
+.navbar{
+    background-color: #ededed;
+
+}
+
+
+.slide{
+    margin-top: 20px;
+}
+
+.slide img{
+    height: 95vh;
+}
+
+.card-body{
+    background-color: #000000;
+    color: white;
+}
+
+
+footer{
+    background-color:#000000;
+}
+
+.fa-facebook-f{
+    color: white;
+    font-size : 35px;
+}
+
+.fa-twitter{
+    color: white;
+    font-size : 35px;
+}
+
+.fa-instagram{
+    color: white;
+    font-size : 35px;
+}
+
+.fa-youtube{
+    color: white;
+    font-size : 35px;
+}
